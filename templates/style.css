@@ -1,0 +1,25 @@
+.header 
+{
+	padding: 10px;
+	text-align: center;
+	background: #1abc9c;
+	color: white;
+	font-size: 30px;
+}
+
+body
+{
+	margin: 0;
+	background-color: #61A0FE;
+}
+
+input, button
+{
+	margin-top: 10px;
+}
+
+form 
+{ 
+	margin: 0 auto; 
+	width:500px;
+}
